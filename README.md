@@ -1,3 +1,7 @@
+Check out my portofolio website with all my projects:
+  http://sergiumanta.pythonanywhere.com/
+
+
 - 👋 Hi, I’m @sergiustfn
 - 👀 I’m interested in Python, SQL and web-development. 
 - 🌱 I’m currently learning Python 3 Object Oriented Programming by Dusty Phillips and Django Framework.
